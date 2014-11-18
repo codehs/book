@@ -51,5 +51,7 @@ def start():
 
     process_file(sys.argv[1], sys.argv[2])
 
+    print "Completed Generating Book"
+
 if __name__ == "__main__":
     start()
