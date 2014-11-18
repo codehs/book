@@ -1,0 +1,21 @@
+# This file is the configuration for the book.
+
+# name 	This is the canonical name used to refer to this file 
+#				in other locations
+# file	This is the name of the  markdown file, which doesn't 
+# 			have to be the same as the name.
+# title	This is a human readable formatted title for the section.
+
+---
+
+- name: what-is-cs
+	file: what-is-cs.md
+	title: What is Computer Science?
+
+- name: intro-to-karel
+	file: intro-to-karel.md
+	title: Introduction to Karel
+
+- name: karel-commands
+	file: karel-commands.md
+	title: Introduction to Karel
