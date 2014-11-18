@@ -1,4 +1,4 @@
-# Commands in Karel
+## Commands in Karel
 
 Karel can move around the grid world and put down and take tennis balls. In order to get Karel to do something,
 you need to give karel a command. A command is an instruction for an action that Karel can do.
