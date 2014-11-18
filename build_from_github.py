@@ -1,7 +1,4 @@
 # Import the pyyaml library
-# Command to run
-# [~/code/book]$
-#  python build_html.py introcs/setup/config.yaml introcs/build/book.html
 import yaml
 import sys
 import os
