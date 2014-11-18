@@ -1,0 +1,1 @@
+This is an online textbook to go with the CodeHS introductory computer science course.
