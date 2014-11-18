@@ -19,3 +19,7 @@
 - name: karel-commands
   file: karel-commands.md
   title: Introduction to Karel
+  
+- name: karel-world
+  file: karel-world.md
+  title: Karel's World
