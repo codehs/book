@@ -34,6 +34,6 @@ move(); is different than Move();
 
 * Make sure to end every command with a `();`
 
-This is how Karel can understand the command.
+This is how Karel can understand the command. These rules are called the syntax.
 
 * Each command goes on its own line.
