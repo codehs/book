@@ -5,6 +5,9 @@ import os
 
 
 def start():
+    import getpass
+    print "SCRIPT USER"
+    print getpass.getuser()
     os.system("git pull")
     os.system("python build_html.py introcs/setup/config.yaml introcs/build/book.html")
     print "Completed build from github."
