@@ -30,7 +30,7 @@ There are a few important things to note when you write a command.
 
 * You need to match the exact capitalization
 
-`move();` is different than `Move();`
+`move();` is different from `Move();`
 
 * Make sure to end every command with a `();`
 
