@@ -6,4 +6,4 @@ What can I do with it? Computer science is the study of computing and its applic
 
 ### What is programming?
 
-Programming is one key part of computer science. Programming is giving instructions to a computer. It's very exciting.
+Programming is one key part of computer science. Programming is giving instructions to a computer. It's very exciting!
