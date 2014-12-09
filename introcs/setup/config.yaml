@@ -1,8 +1,8 @@
 # This file is the configuration for the book.
 
-# name  This is the canonical name used to refer to this file 
+# name  This is the canonical name used to refer to this file
 #       in other locations
-# file  This is the name of the  markdown file, which doesn't 
+# file  This is the name of the  markdown file, which doesn't
 #       have to be the same as the name.
 # title This is a human readable formatted title for the section.
 
@@ -19,7 +19,71 @@
 - name: karel-commands
   file: karel-commands.md
   title: Introduction to Karel
-  
+
 - name: karel-world
   file: karel-world.md
   title: Karel's World
+
+- name: 1-IntroductionToProgrammingWithKarel
+  file: 1-IntroductionToProgrammingWithKarel.md
+  title: Introduction to Programming with Karel
+
+- name: 1-MoreBasicKarel
+  file: 1-MoreBasicKarel.md
+  title: More Basic Karel
+
+- name: 1-KarelCantTurnRight
+  file: 1-KarelCantTurnRight.md
+  title: Karel Can't Turn Right
+
+- name: 1-FunctionsInKarel
+  file: 1-FunctionsInKarel.md
+  title: Functions in Karel
+
+- name: 1-TheStartFunction
+  file: 1-TheStartFunction.md
+  title: The Start Function
+
+- name: 1-TopDownDesignAndDecomposition
+  file: 1-TopDownDesignAndDecomposition.md
+  title: Top Down Design and Decomposition in Karel
+
+- name: 1-CommentingYourCode
+  file: 1-CommentingYourCode.md
+  title: Commenting Your Code
+
+- name: 1-SuperKarel
+  file: 1-SuperKarel.md
+  title: Super Karel
+
+- name: 1-ForLoops
+  file: 1-ForLoops.md
+  title: For Loops
+
+- name: 1-IfStatements
+  file: 1-IfStatements.md
+  title: If Statements
+
+- name: 1- IfElseStatements
+  file: 1-IfElseStatements.md
+  title: If/Else Statements
+
+- name: 1-WhileLoopsInKarel
+  file: 1-WhileLoopsInKarel.md
+  title: While Loops In Karel
+
+- name: 1-ControlStucturesExample
+  file: 1-ControlStucturesExample.md
+  title: Control Structures Example
+
+- name: 1-MoreKarelExamplesAndTesting
+  file: 1-MoreKarelExamplesAndTesting.md
+  title: More Karel Examples and Testing
+
+- name: 1-HowToIndentYourCode
+  file: 1-HowToIndentYourCode.md
+  title: How To Indent Your Code
+
+- name: 1-KarelChallenges
+  file: 1-KarelChallenges.md
+  title: Karel Challenges
