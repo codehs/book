@@ -8,8 +8,8 @@
 
 ---
 
-- name: 0-Introduction
-  file: 0-Introduction.md
+- name: Introduction
+  file: Introduction.md
   title: Introduction - What is Computer Science?
 
 - name: intro-to-karel
