@@ -8,9 +8,21 @@
 
 ---
 
-- name: 0-Introduction
-  file: 0-Introduction.md
-  title: Introduction: What is Computer Science?
+- name: what-is-cs
+  file: what-is-cs.md
+  title: What is Computer Science?
+
+- name: intro-to-karel
+  file: intro-to-karel.md
+  title: Introduction to Karel
+
+- name: karel-commands
+  file: karel-commands.md
+  title: Introduction to Karel
+
+- name: karel-world
+  file: karel-world.md
+  title: Karel's World
 
 - name: 1-IntroductionToProgrammingWithKarel
   file: 1-IntroductionToProgrammingWithKarel.md
