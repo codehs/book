@@ -10,7 +10,7 @@
 
 - name: 0-Introduction
   file: 0-Introduction.md
-  title: Introduction: What is Computer Science?
+  title: Introduction - What is Computer Science?
 
 - name: intro-to-karel
   file: intro-to-karel.md
