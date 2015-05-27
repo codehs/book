@@ -1,6 +1,6 @@
 ## CodeHS Books
 
-This is a project to write open source textbooks with our comminity of tutors for students and teachers using CodeHS to teach computer science classes. 
+This is a project to write open source textbooks with our community of tutors for students and teachers using CodeHS to teach computer science classes. 
 
 ### Committing Instructions
 
